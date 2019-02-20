@@ -1,0 +1,7 @@
+# Hi
+# "F1, NOW!!!!" -Buddy Monger
+
+User-agent: *
+Disallow:
+
+Sitemap: https://cobra-racing.co.uk/sitemap.xml
