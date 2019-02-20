@@ -15,7 +15,7 @@
 
 .header
 {
-	background-color: #1cc2ff;
+	background-color: #000000;
 }
 
 body
@@ -72,7 +72,7 @@ nav a:hover
 
 .background
 {
-	background-image: url("background.png");
+	background-image: url("assets/background.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding-bottom: 31.5%;	
@@ -188,6 +188,8 @@ nav a:hover
 {
 	background-color: grey;
 	overflow: hidden; 
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
 }
 
 @media (max-width: 400px) {
