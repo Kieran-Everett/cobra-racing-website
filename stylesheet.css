@@ -24,7 +24,7 @@ body
 
 }
 
-.header nav 
+.header menu 
 {
 	margin-left: 3.5%;
 	padding-top: 20px;
@@ -33,7 +33,7 @@ body
 	list-style: none;
 }
 
-nav a
+menu a
 {
 	text-decoration:none;
 	color: white;
@@ -45,8 +45,7 @@ nav a
 	font-family: 'Hind', sans-serif;
 }
 
-nav a:hover
-
+menu a:hover
 {
 	background-color: #158ab5;
 	color: #fff;
